@@ -1,0 +1,13 @@
+co\unicauca\acces\Factory.class
+co\unicauca\acces\OrderRepository.class
+co\unicauca\domain\Order.class
+co\unicauca\service\ProxyClient.class
+co\unicauca\presentation\Main.class
+co\unicauca\domain\Item.class
+co\unicauca\domain\State.class
+co\unicauca\service\IOrderService.class
+co\unicauca\domain\Customer.class
+co\unicauca\domain\Dish.class
+co\unicauca\service\OrderServiceLogger.class
+co\unicauca\acces\IOrderRepository.class
+co\unicauca\domain\OrderFacade.class
